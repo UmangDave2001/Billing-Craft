@@ -1,0 +1,18 @@
+      Welcome to Dave's Mini Mall
+=============================
+Bill Number:	626
+Customer Name:	umang
+Phone number:	95580123547
+Customer Email:	dave@gmail.com
+
+=============================
+Product             	Qty                 	Price                  
+
+ Apple		1		100000
+ patanjali_jaggery		1		100
+
+ =============================
+ Sub Amount:			RS.100200.00
+ gst:			RS.1001.00
+ Total Amount:			RS.101201.00
+===========================

@@ -1,0 +1,17 @@
+      Welcome to Dave's Mini Mall
+=============================
+Bill Number:	146
+Customer Name:	GTM
+Phone number:	153535888
+Customer Email:	gatm@gmail.com
+
+=============================
+Product             	Qty                 	Price                  
+
+ Puma		1		1500
+
+ =============================
+ Sub Amount:			RS.3000.00
+ gst:			RS.15.00
+ Total Amount:			RS.3015.00
+===========================

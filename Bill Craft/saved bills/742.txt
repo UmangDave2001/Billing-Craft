@@ -1,0 +1,18 @@
+      Welcome to Dave's Mini Mall
+=============================
+Bill Number:	742
+Customer Name:	umang
+Phone number:	9558012741
+Customer Email:	umangdave@gmail.com
+
+=============================
+Product             	Qty                 	Price                  
+
+ bata		1		500
+ MonteCarlo		1		2000
+
+ =============================
+ Sub Amount:			RS.6500.00
+ gst:			RS.25.00
+ Total Amount:			RS.6525.00
+===========================

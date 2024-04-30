@@ -1,0 +1,17 @@
+      Welcome to Dave's Mini Mall
+=============================
+Bill Number:	218
+Customer Name:	umang
+Phone number:	9558013247
+Customer Email:	umang12@gmail.com
+
+=============================
+Product             	Qty                 	Price                  
+
+ Adidas		1		1000
+
+ =============================
+ Sub Amount:			RS.21000.00
+ gst:			RS.10.00
+ Total Amount:			RS.21010.00
+===========================

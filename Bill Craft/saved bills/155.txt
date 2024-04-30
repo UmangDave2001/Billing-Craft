@@ -1,0 +1,18 @@
+      Welcome to Dave's Mini Mall
+=============================
+Bill Number:	155
+Customer Name:	
+Phone number:	
+Customer Email:	
+
+=============================
+Product             	Qty                 	Price                  
+
+ bata		1		500
+ dove		1		100
+
+ =============================
+ Sub Amount:			RS.600.00
+ gst:			RS.5.00
+ Total Amount:			RS.605.00
+===========================

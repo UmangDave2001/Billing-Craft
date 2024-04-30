@@ -1,0 +1,17 @@
+      Welcome to Dave's Mini Mall
+=============================
+Bill Number:	168
+Customer Name:	shyam
+Phone number:	7433015451
+Customer Email:	shyam@gmail.com
+
+=============================
+Product             	Qty                 	Price                  
+
+ puma		1		3000
+
+ =============================
+ Sub Amount:			RS.3400.00
+ gst:			RS.30.00
+ Total Amount:			RS.3430.00
+===========================

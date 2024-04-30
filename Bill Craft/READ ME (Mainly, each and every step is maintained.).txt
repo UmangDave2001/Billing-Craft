@@ -1,0 +1,6 @@
+1. import tkinter* ( * indicate import everythings from tkinter)
+2. import tkinter.ttk module provides access to the Tk themed widget set.
+3. all things under one main class called Bill_app and close with mainloop & method of root object.
+4. create a title label.
+5. create a  main frame & create label frame for all items and use self.mainframe.place geometry     widget.
+6. made combo box  for catogary and subcatogary and entry field 

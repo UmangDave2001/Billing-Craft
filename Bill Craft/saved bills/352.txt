@@ -1,0 +1,16 @@
+      Welcome to Dave's Mini Mall
+=============================
+Bill Number:	352
+Customer Name:	neel
+Phone number:	836286
+Customer Email:	neel@gmail
+
+=============================
+Product             	Qty                 	Price                  
+
+
+ =============================
+ Sub Amount:			RS.20000.00
+ gst:			RS.0.00
+ Total Amount:			RS.20000.00
+===========================

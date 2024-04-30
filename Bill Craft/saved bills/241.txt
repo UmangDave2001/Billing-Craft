@@ -1,0 +1,17 @@
+      Welcome to Dave's Mini Mall
+=============================
+Bill Number:	241
+Customer Name:	eddd
+Phone number:	9585013247
+Customer Email:	fdgdh@gmail.coom
+
+=============================
+Product             	Qty                 	Price                  
+
+ Adidas		1		1000
+
+ =============================
+ Sub Amount:			RS.1200.00
+ gst:			RS.10.00
+ Total Amount:			RS.1210.00
+===========================

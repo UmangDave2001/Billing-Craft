@@ -1,0 +1,17 @@
+      Welcome to Dave's Mini Mall
+=============================
+Bill Number:	762
+Customer Name:	raj
+Phone number:	4515644
+Customer Email:	raj@gmail
+
+=============================
+Product             	Qty                 	Price                  
+
+ underarmour		1		5000
+
+ =============================
+ Sub Amount:			RS.5100.00
+ gst:			RS.50.00
+ Total Amount:			RS.5150.00
+===========================
